@@ -22,3 +22,5 @@ It provides a central place to track products, customers, orders, and shipping.
     
   - Presentation layer: This layer is responsible for the user interface . It receives user input, validates it, and sends it to the next layer.
     in our project PL layer is a console.
+
+    https://my.visme.co/preview/31opjp0x-untitled-project?isPreview=1&t=ccf0dcdc49440f87502d6f5943b98d00#s8
